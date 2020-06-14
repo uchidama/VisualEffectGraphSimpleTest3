@@ -11,7 +11,7 @@ Unity Visual Effect Graph Simple Test3
 - Unity 2019.4.0f1 or later
 
 # 参考
-[Visual Effect GraphとRealSenseを組み合わせると 簡単に派手なことができてすごく面白いという話 - Unity道場2019 3月](https://youtu.be/uvGX8GPdfTE)   
+[Visual Effect GraphとRealSenseを組み合わせると 簡単に派手なことができてすごく面白いという話 - Unity道場2019 3月](https://youtu.be/uvGX8GPdfTE?t=821)   
 この動画で_kzrさんがやってるのを、一通りなぞって見た。  
 若干バージョン違いで変更になったところあるっぽいけど、大体同じようにできた。  
 
