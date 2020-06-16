@@ -15,5 +15,5 @@ Unity Visual Effect Graph Simple Test3
 この動画で_kzrさんがやってるのを、一通りなぞって見た。  
 若干バージョン違いで変更になったところあるっぽいけど、大体同じようにできた。  
 
-# ライセンス
-[MIT license](https://en.wikipedia.org/wiki/MIT_License).  
+# License
+[Unlicense](https://unlicense.org/)
